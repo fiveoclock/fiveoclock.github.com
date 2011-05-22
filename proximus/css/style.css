@@ -176,7 +176,7 @@ a:hover {
 	color:#6699FF;
 	font-size:300%;
 	font-weight:bold;
-	padding:0px 0px 0px 0px;
+	padding:16px 0px 0px 0px;
 	float:left;
 }
 
@@ -201,9 +201,9 @@ a:hover {
 	font-size:117%;
 	font-weight:bold;
 	font-style:normal;
-	padding:0px 0px 0px 0px;
+	padding:14px 0px 0px 0px;
 	width:520px;
-	clear:both;
+	clear:right;
 	float:left;
 }
 
@@ -295,6 +295,14 @@ a:hover {
 }
 
 /* tables */
+
+#logo {
+	margin-right: 8px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	clear:none;
+}
+
 
 table {  
   width: 99%;   
